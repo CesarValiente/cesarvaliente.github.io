@@ -1,0 +1,16 @@
+body {
+	background: rgb(32,126,181);
+}
+#logo {
+	display: block;
+	margin: auto;
+	margin-top: 100px;
+}
+
+.description { 
+	font-family: 'Poiret One', sans;
+	text-align: center;	
+	margin-top: 50px;
+	color: white;
+}
+
